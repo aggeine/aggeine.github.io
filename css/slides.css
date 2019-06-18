@@ -187,26 +187,46 @@ img.rounded {
 .list {
   border: solid white 1px;
   padding: 15px;
-  background-color: #FAF0CA;
+  background-color:black;
+  color: white;
+}
+.list:hover {
+  background-color: white;
   color: black;
+ 
 }
 .list2 {
   border: solid white 1px;
   padding: 15px;
-  background-color:#FAF0CA;
+  background-color:black;
+  color: white;
+}
+.list2:hover {
+  background-color: white;
   color: black;
+ 
 }
 .list3 {
   border: solid white 1px;
   padding: 15px;
-  background-color:#FAF0CA;
+  background-color:black;
+  color: white;
+}
+.list3:hover {
+  background-color: white;
   color: black;
+ 
 }
 .list4 {
   border: solid white 1px;
   padding: 15px;
-  background-color:#FAF0CA;
+  background-color:black;
+  color: white;
+}
+.list4:hover {
+  background-color: white;
   color: black;
+ 
 }
 
 /* typography */
